@@ -1,11 +1,6 @@
 # 2020-Spring-Semester-Computer-Vision
 Course Notes: https://hackmd.io/@kaikai/computervision
 
----
-title: Computer Vision Lecture Notes
-tags: Computer Vision
----
-
 <!-- Put the link to this slide here so people can follow -->
 - Image Processing Basis
 - Segmentation
